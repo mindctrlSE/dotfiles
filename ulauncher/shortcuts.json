@@ -1,0 +1,252 @@
+{
+    "4cc8d3f5-2000-47be-8250-f617acf36443": {
+        "id": "4cc8d3f5-2000-47be-8250-f617acf36443",
+        "name": "Google Search",
+        "keyword": "g",
+        "cmd": "https://google.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/google-search-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1631095847.857107
+    },
+    "9a2e07f6-4939-440c-a322-7ecc655d3d27": {
+        "id": "9a2e07f6-4939-440c-a322-7ecc655d3d27",
+        "name": "Stack Overflow",
+        "keyword": "so",
+        "cmd": "http://stackoverflow.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/stackoverflow-icon.svg",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1631095847.857134
+    },
+    "648f77c3-628f-4d43-90a4-a160d982ebbc": {
+        "id": "648f77c3-628f-4d43-90a4-a160d982ebbc",
+        "name": "Wikipedia",
+        "keyword": "wiki",
+        "cmd": "https://en.wikipedia.org/wiki/%s",
+        "icon": "/usr/share/ulauncher/media/wikipedia-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1631095847.8571494
+    },
+    "ba67f799-f821-46b7-9d35-5cbfea9dbe92": {
+        "id": "ba67f799-f821-46b7-9d35-5cbfea9dbe92",
+        "name": "The Saurus",
+        "keyword": "tsa",
+        "cmd": "https://www.thesaurus.com/browse/%s",
+        "icon": "~/Downloads/rice/Misc/Ulauncher icons/thesaurus.jpg",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1631701572.2476645
+    },
+    "5b71ba6c-f94e-4d52-b34f-803052fa57c3": {
+        "id": "5b71ba6c-f94e-4d52-b34f-803052fa57c3",
+        "name": "Start all conky scripts",
+        "keyword": "conkystart",
+        "cmd": " #!/bin/bash\n\n./conkystart.sh",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1634376427.4116595
+    },
+    "1b9ea961-2caf-4ca8-b5bc-d917dbc47aec": {
+        "id": "1b9ea961-2caf-4ca8-b5bc-d917dbc47aec",
+        "name": "smile ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
+        "keyword": "smbooba",
+        "cmd": "echo '( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)' | xclip -selection clipboard",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1637937249.851399
+    },
+    "02347f63-4c50-4b96-a3c5-7d978737e1a9": {
+        "id": "02347f63-4c50-4b96-a3c5-7d978737e1a9",
+        "name": "smile \u00af\\_(\u30c4)_/\u00af",
+        "keyword": "smshrug",
+        "cmd": "echo '\u00af\\_(\u30c4)_/\u00af' | xclip -selection clipboard",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1637937487.564896
+    },
+    "b139abe5-6e98-4b4f-9c99-e3553981fc6e": {
+        "id": "b139abe5-6e98-4b4f-9c99-e3553981fc6e",
+        "name": "smile (\u2500\u203f\u2500)",
+        "keyword": "smpleased",
+        "cmd": "echo '(\u2500\u203f\u2500)' | xclip -selection clipboard",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1637937880.56096
+    },
+    "24d3ef7d-6f9a-42d4-bf87-a8eab063379e": {
+        "id": "24d3ef7d-6f9a-42d4-bf87-a8eab063379e",
+        "name": "Lorem Ipsum",
+        "keyword": "lipsum",
+        "cmd": "echo 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.' | xclip -selection clipboard ",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1638285368.899062
+    },
+    "16a48baa-2e6b-4645-b47f-cda257b9612a": {
+        "id": "16a48baa-2e6b-4645-b47f-cda257b9612a",
+        "name": "Dracula Green",
+        "keyword": "drg",
+        "cmd": "echo '#50fa7b' | xclip -selection clipboard",
+        "icon": "~/Downloads/DraculaLogo/draculaGreen.svg",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1638891735.941986
+    },
+    "acab7595-aad7-4ab0-9710-c078af6229ba": {
+        "id": "acab7595-aad7-4ab0-9710-c078af6229ba",
+        "name": "Dracula Purple",
+        "keyword": "drp",
+        "cmd": "echo '#bd93f9' | xclip -selection clipboard",
+        "icon": "~/Downloads/045-dracula.svg",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1638891990.9978
+    },
+    "00c417ea-c7f0-4239-af69-7ca21d03fb63": {
+        "id": "00c417ea-c7f0-4239-af69-7ca21d03fb63",
+        "name": "Dracula BG",
+        "keyword": "drbg",
+        "cmd": "echo '#282a36' | xclip -selection clipboard",
+        "icon": "~/Downloads/DraculaLogo/draculaBackground.svg",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1638892063.8787317
+    },
+    "4021b246-6767-4015-b6ef-8e362903ea18": {
+        "id": "4021b246-6767-4015-b6ef-8e362903ea18",
+        "name": "Dracula BG Light",
+        "keyword": "drbgl",
+        "cmd": "echo '#44475a' | xclip -selection clipboard",
+        "icon": "~/Downloads/DraculaLogo/draculaLightBackground.svg",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1638892134.4737682
+    },
+    "603b864c-622f-40fb-8860-cfe989684630": {
+        "id": "603b864c-622f-40fb-8860-cfe989684630",
+        "name": "Dracula BG Dark",
+        "keyword": "drbgd",
+        "cmd": "echo '#1e1f29' | xclip -selection clipboard",
+        "icon": "~/Downloads/DraculaLogo/draculaDarkBackground.svg",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1638892195.6746747
+    },
+    "2a4b3c71-d310-4ac0-92e9-259da73d1aff": {
+        "id": "2a4b3c71-d310-4ac0-92e9-259da73d1aff",
+        "name": "Dracula BG Darkest",
+        "keyword": "drbgdd",
+        "cmd": "echo '#16171f' | xclip -selection clipboard",
+        "icon": "~/Downloads/DraculaLogo/draculaDarkestBackground.svg",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1638892277.7995589
+    },
+    "f2aaabc3-4a92-4216-81d5-6d7294a57f90": {
+        "id": "f2aaabc3-4a92-4216-81d5-6d7294a57f90",
+        "name": "Dracula Red",
+        "keyword": "drr",
+        "cmd": "echo '#ff5555' | xclip -selection clipboard",
+        "icon": "~/Downloads/DraculaLogo/draculaRed.svg",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1638892338.513813
+    },
+    "b8fda823-c758-41df-b840-0210b25b201f": {
+        "id": "b8fda823-c758-41df-b840-0210b25b201f",
+        "name": "Dracula White",
+        "keyword": "drw",
+        "cmd": "echo '#f8f8f2' | xclip -selection clipboard",
+        "icon": "~/Downloads/DraculaLogo/draculaWhite.svg",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1638892520.8633623
+    },
+    "f1b72f46-7bde-4bfb-a71f-931db663485d": {
+        "id": "f1b72f46-7bde-4bfb-a71f-931db663485d",
+        "name": "Translate English \u27a1 Swedish",
+        "keyword": "tren",
+        "cmd": "https://translate.google.com/?sl=en&tl=sv&text=%s&op=translate",
+        "icon": "~/Pictures/Google_Translate_logo.svg.png",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1640128278.7522876
+    },
+    "d8cdd136-5d00-4604-bdc6-ce6de5ffae25": {
+        "id": "d8cdd136-5d00-4604-bdc6-ce6de5ffae25",
+        "name": "Synonym",
+        "keyword": "syn",
+        "cmd": "https://www.synonymer.se/sv-syn/%s",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1640128340.5379093
+    },
+    "70dcdda6-4d81-4d7f-92db-1feb10d482bb": {
+        "id": "70dcdda6-4d81-4d7f-92db-1feb10d482bb",
+        "name": "Translate Swedish \u27a1 English",
+        "keyword": "tr",
+        "cmd": "https://translate.google.com/?sl=sv&tl=en&text=%s&op=translate",
+        "icon": "~/Pictures/Google_Translate_logo.svg.png",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1640443848.5801947
+    },
+    "000be7b8-4298-468f-a0ae-2dc23d9b9b6a": {
+        "id": "000be7b8-4298-468f-a0ae-2dc23d9b9b6a",
+        "name": "Dracula Comment",
+        "keyword": "drc",
+        "cmd": "echo '#6272a4' | xclip -selection clipboard",
+        "icon": "~/Downloads/045-dracula.svg",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1642037419.790442
+    },
+    "4949426d-97d2-470e-8df4-f94bc6c450bc": {
+        "id": "4949426d-97d2-470e-8df4-f94bc6c450bc",
+        "name": "ACM Search",
+        "keyword": "acm",
+        "cmd": "https://dl-acm-org.ezproxy.its.uu.se/action/doSearch?AllField=%s",
+        "icon": "~/Pictures/acm.png",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1642611935.56278
+    },
+    "8651b39f-b298-49fa-b2d6-587c9d868122": {
+        "id": "8651b39f-b298-49fa-b2d6-587c9d868122",
+        "name": "Google Scholar",
+        "keyword": "gs",
+        "cmd": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%s&btnG=",
+        "icon": "~/Pictures/scholar.png",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1642611993.087675
+    },
+    "cd552bd1-cfe4-47b2-afa4-9e4711fe1d4d": {
+        "id": "cd552bd1-cfe4-47b2-afa4-9e4711fe1d4d",
+        "name": "Uppsala University Libary",
+        "keyword": "ub",
+        "cmd": "https://uu.summon.serialssolutions.com/sv-SE/search?fvf=ContentType,Book Review,t|ContentType,Newspaper Article,t&q=%s#!/search?ho=t&fvf=ContentType,Book Review,t|ContentType,Newspaper Article,t&l=sv-SE&q=%s",
+        "icon": "~/Pictures/ubuu.png",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1642677428.8638115
+    },
+    "e7f7ef51-e1d6-4bae-a32a-200e59534262": {
+        "id": "e7f7ef51-e1d6-4bae-a32a-200e59534262",
+        "name": "Firefox Search",
+        "keyword": "ff",
+        "cmd": "https://search.brave.com/search?q=%s",
+        "icon": "~/Pictures/ff.png",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1642851132.2060153
+    }
+}
